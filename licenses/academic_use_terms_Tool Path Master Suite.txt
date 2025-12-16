@@ -1,0 +1,15 @@
+The software "Tool Path Master Suite" is distributed under the BSD 3-Clause License (see the "license_Tool Path Master Suite" file).
+
+For academic users, we kindly request your compliance with the following community norms, which are considered conditions for the ethical use of academic software:
+
+1. Citation Requirement
+If you use this software in work that leads to a publication (including papers, theses, reports, and presentations), you are **required to cite** the foundational research:
+
+1.1 During the period when the associated manuscript is under review or not yet formally published, users shall cite the work using the available interim information (e.g., preprint server identifier, software repository URL).
+
+1.2 The copyright holder will make reasonable efforts to notify users of the formal publication details via the software repository or website. Upon such notification, or upon the user becoming independently aware of the formal publication, the user is obligated to update any future publications and, where practicable, any existing publicly accessible materials (e.g., online preprints) to cite the research paper using the standard format.
+
+2. Non-Commercial Use Expectation
+This software version is provided **free for academic and non-commercial research purposes only**. Any commercial use, including but not limited to integration into commercial products or services, requires prior written permission and a separate licensing agreement. 
+
+**These terms are supplemental to the BSD 3-Clause License and represent the academic community's expectations for proper use and attribution.**
