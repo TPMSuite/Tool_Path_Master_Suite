@@ -15,5 +15,5 @@ ver2.0: Arbitrary three-dimensional functions are supported to define the gradie
 1. The core algorithms within this software are protected by patent ZL 202411658268.4.
 
 ### Contact
-Please contact us if you have any problems or advices. 
+While the software has been tested on typical use cases, it is provided “as is” without guarantee of error‑free operation under all conditions. Please contact us if you have any problems or advices. We appreciate your cooperation in helping us improve the software.
 Email: leizhang_sjtu@sjtu.com; TPMSuite@163.com
